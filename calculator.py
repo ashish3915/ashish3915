@@ -37,4 +37,4 @@ while True:
             print(a,"/",b,"=",div(a,b))
     else:
         print("Invalid Input.")
-        exit()
+        continue
